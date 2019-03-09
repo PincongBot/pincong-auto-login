@@ -1,0 +1,18 @@
+{
+  "name": "pincong-auto-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PincongBot/pincong-auto-login.git"
+  },
+  "author": "PincongBot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PincongBot/pincong-auto-login/issues"
+  },
+  "homepage": "https://github.com/PincongBot/pincong-auto-login#readme"
+}
